@@ -3,6 +3,7 @@
   "visual_manifest_rows": 20514,
   "mapped_image_urls": 20513,
   "unmapped_meta_routes": [],
+  "routes_without_endpoint_labels": [],
   "unreferenced_visual_routes": [
     "https://daytrip.com/en/transfers/cappadocia-tr/"
   ],
